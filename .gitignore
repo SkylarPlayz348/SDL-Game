@@ -68,3 +68,6 @@ CMakeUserPresets.json
 
 # Build Directories
 build
+
+# macOS Stuff
+.DS_Store
